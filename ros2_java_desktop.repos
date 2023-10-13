@@ -21,7 +21,7 @@ repositories:
     version: iron
   ros2-java/ament_java:
     type: git
-    url: https://github.com/SpyrosKou/ament_java.git
+    url: https://github.com/ros2-java/ament_java.git
     version: main
   ros2-java/ros2_java:
     type: git
@@ -29,5 +29,5 @@ repositories:
     version: main
   ros2-java/ros2_java_examples:
     type: git
-    url: https://github.com/SpyrosKou/ros2_java_examples.git
+    url: https://github.com/ros2-java/ros2_java_examples.git
     version: main
